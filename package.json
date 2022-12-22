@@ -1,0 +1,35 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "ejemplo diseñado por MaikelG",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nPauuul/bot.git"
+  },
+  "keywords": [],
+  "author": "Paul",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/nPauuul/bot/issues"
+  },
+  "homepage": "https://npauuul.com",
+  "dependencies": {
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord-economy": "^1.2.2",
+    "discord.js": "^12.5.3",
+    "economia-discord": "^3.0.1",
+    "express": "^4.18.1",
+    "fs": "0.0.1-security",
+    "megadb": "^3.4.0",
+    "ms": "^2.1.3",
+    "parse-ms": "^3.0.0",
+    "pretty-ms": "^7.0.1",
+    "quick.db": "^7.1.3",
+    "quick.eco": "^6.0.0"
+  }
+}
